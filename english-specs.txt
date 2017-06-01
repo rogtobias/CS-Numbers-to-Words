@@ -1,0 +1,8 @@
+input:1 -> output: one
+input:8 -> output: eight
+input:10 -> output: ten
+input:17 -> output: seventeen
+input:100 -> output: one hundred
+input:188 -> output: one hundred eight
+input:1000 -> output: one thousand
+input:1834 -> output: one thousand eight hundred thirty four
